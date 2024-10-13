@@ -2,23 +2,25 @@
 
 This api has basic CRUD operations. Below you can see screenshots from each type of request (GET, POST, PUT & DELETE).
 
+You need to add .env file your MongoDB url to make this API work.
+
 ## localhost:5000/api/articles
 
 GET Request
 
-<img src="screenshots/get-request-ss.png" alt="get" width="500"/>
+<img src="Screenshots/get-request-ss.png" alt="get" width="500"/>
 
 POST Request
 
-<img src="screenshots/post-request-ss.png" alt="post" width="500"/>
+<img src="Screenshots/post-request-ss.png" alt="post" width="500"/>
 
 PUT/Update Request
 
-<img src="screenshots/put-request-ss.png" alt="put" width="500"/>
+<img src="Screenshots/put-request-ss.png" alt="put" width="500"/>
 
 DELETE Request
 
-<img src="screenshots/delete-request-ss.png" alt="delete" width="500"/>
+<img src="Screenshots/delete-request-ss.png" alt="delete" width="500"/>
 
 ## Documentation
 
